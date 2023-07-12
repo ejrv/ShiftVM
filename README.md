@@ -1,23 +1,6 @@
-             
-ShiftVM Beta 1 
-_______________________________________________________________________________________________________________________________________________
- 
-Welcome to the ShiftVM, nah Its still in developement
- 
- 
- VM List:
- 
- ______________________________________________________________________________________________________
-                          |         |                                                                  |
-   Windows XP             |  Open   |   Username: USERNAME_HERE_LATER  Password: (Nothing) No pass xd  |
-                          |         |                                                                  |
- ====================================================================================================  |  
-                          |         |                                                                  |
-                          |         |                                                                  |
-                          |         |                                                                  |
- _______________________________________________________________________________________________________
- 
+Alpanox and SpilC DO NOT OWN "ShiftVM" Anymore! "Inventim" Owns ShiftVM Starting from 2023, "SpiceVM" and "IVMS" Are MERGED And Shaped "ShiftVM".
 
+http://inventim.eu5.net/shiftvm/
  
  
  
@@ -25,9 +8,8 @@ Welcome to the ShiftVM, nah Its still in developement
  
  
  
- 
- 
-Copyright ShiftVM 2017-2021
- 
- 
-Copyight ALpNoX FrameWork 2003-2009
+Copyright "Alpanox" 2018-2020
+
+Copyright "SpilC" 2020-2021
+
+Copyright "Inventim" 2021-2023
